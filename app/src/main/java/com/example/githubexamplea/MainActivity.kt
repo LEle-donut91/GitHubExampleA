@@ -18,3 +18,4 @@ class MainActivity : AppCompatActivity() {
 
 // member1 브랜치 주석 추가 테스트 - 1
 // member2 브랜치 주석 추가 테스트 - 2
+// member3 브랜치 주석 추가 테스트 - 3
